@@ -31,7 +31,7 @@ const App = () => {
   ];
   return (
     <>
-      <div>Work!!</div>
+      <div>It Work's!!</div>
       <Card
         onClick={(num) => {
           console.log("Hi", num);
